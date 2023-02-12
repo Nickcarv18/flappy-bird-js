@@ -480,9 +480,15 @@ function loop(){
     requestAnimationFrame(loop);
 }
 
-window.addEventListener('click', function () {
-    if(telasAtiva.click){
-        telasAtiva.click();
+window.addEventListener('keypress', (event) =>{
+    const keyCode = event.keyCode;
+
+    switch(keyCode){
+        case 32:
+            if(telasAtiva.click){
+                telasAtiva.click();
+            }
+            break;        
     }
 });
 
