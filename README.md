@@ -1,9 +1,14 @@
 
 <div align=center>
-  <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/logo.png" style="width:500px; margin-botom: 10px"/>
-  <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/inicio.png" style="width:500px;"/>
-  <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/gameplay.png" style="width:500px;"/>
-  <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/gameOver.png" style="width:500px;"/>
+  <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/logo.png"/>
+  
+  &ensp;&ensp;&ensp;
+  
+  <div style="display: flex">
+      <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/inicio.png" style="width:250px; margin-left: 10px;"/>
+      <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/gameplay.png" style="width:250px; margin-left: 10px;"/>
+      <img src="https://github.com/Nickcarv18/flappy-bird-js/blob/master/_docs_readme/gameOver.png" style="width:250px;"/>
+  </div>
 </div>
 
 &ensp;
